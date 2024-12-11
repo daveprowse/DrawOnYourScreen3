@@ -426,10 +426,10 @@ msgstr "Traduzido por"
 msgid "Palettes"
 msgstr "Paletas"
 
-msgid "New Pallete"
+msgid "New Palette"
 msgstr "Nova Paleta"
 
-msgid "Create or Import pallete"
+msgid "Create or Import palette"
 msgstr "Criar ou Importar Paleta"
 
 msgid "Add a new palette"

@@ -1,5 +1,6 @@
 /*
  * Copyright 2019 Abakkk
+ * Copyright 2024 Dave Prowse
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -19,6 +20,7 @@
  */
 
 /* jslint esversion: 6 */
+/* eslint version: 9.16 (2024) */
 /* exported Icons, Image, Images, Json, Jsons, getDateString, saveSvg */
 
 import Gdk from 'gi://Gdk';

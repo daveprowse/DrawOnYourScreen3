@@ -1,6 +1,7 @@
 /*
  * Copyright 2019 Abakkk
  * Copyright 2023 zhrexl
+ * Copyright 2024 Dave Prowse
  
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -17,12 +18,15 @@
  *
  * SPDX-FileCopyrightText: 2019 Abakkk
  * SPDX-License-Identifier: GPL-3.0-or-later
+ * SPDX-FileContributor: Modified by Dave Prowse
  */
 
+/* eslint version: 9.16 (2024) */
 
 import GObject from 'gi://GObject';
 
 import { QuickToggle, SystemIndicator, QuickSettingsMenu } from 'resource:///org/gnome/shell/ui/quickSettings.js';
+
 import * as Panel from 'resource:///org/gnome/shell/ui/panel.js';
 
 import * as Config from 'resource:///org/gnome/shell/misc/config.js';
@@ -30,6 +34,7 @@ import * as Config from 'resource:///org/gnome/shell/misc/config.js';
 import { Extension } from 'resource:///org/gnome/shell/extensions/extension.js';
 
 import { Files } from './files.js';
+
 import * as AreaManager from './ui/areamanager.js';
 
 

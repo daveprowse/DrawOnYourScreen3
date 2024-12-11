@@ -16,6 +16,8 @@
  *
  */
 
+/* eslint version: 9.16 (2024) */
+
 
 import Adw from 'gi://Adw';
 import Gdk from 'gi://Gdk';

@@ -11,6 +11,7 @@
     "shell-version": [        
         "46",
         "47"       
-    ],
-    "version": 15.0
+    ],    
+    "version-name": "15.1",
+    "version": 15
 }

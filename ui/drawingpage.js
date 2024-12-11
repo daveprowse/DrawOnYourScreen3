@@ -16,6 +16,8 @@
  *
  */
 
+/* eslint version: 9.16 (2024) */
+
 import Adw from 'gi://Adw';
 import Gdk from 'gi://Gdk';
 import GLib from 'gi://GLib';
@@ -54,8 +56,8 @@ const DrawingPage = GObject.registerClass({
 
         this.PalettesActionRow = Adw.ActionRow.new();
 
-        this.PalettesActionRow.set_title(_("New Pallete"));
-        this.PalettesActionRow.set_subtitle(_("Create or Import pallete"));
+        this.PalettesActionRow.set_title(_("New Palette"));
+        this.PalettesActionRow.set_subtitle(_("Create or Import palette"));
         let addButton = Gtk.Button.new_from_icon_name('list-add-symbolic');
         addButton.set_tooltip_text(_("Add a new palette"));
         addButton.valign = Gtk.Align.CENTER;

@@ -17,7 +17,8 @@
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
-/* jslint esversion: 6 */
+/* jslint esversion: 6 (2019) */
+/* eslint version: 9.16 (2024) */
 /* exported init */
 
 import Meta from 'gi://Meta';

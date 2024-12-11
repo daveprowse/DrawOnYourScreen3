@@ -14,7 +14,10 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
+ * 
  */
+
+/* eslint version: 9.16 (2024) */
 
 import Adw from 'gi://Adw';
 import Gtk from 'gi://Gtk';

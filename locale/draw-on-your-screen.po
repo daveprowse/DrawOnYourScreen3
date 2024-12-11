@@ -415,10 +415,10 @@ msgstr ""
 msgid "Palettes"
 msgstr ""
 
-msgid "New Pallete"
+msgid "New Palette"
 msgstr ""
 
-msgid "Create or Import pallete"
+msgid "Create or Import palette"
 msgstr ""
 
 msgid "Add a new palette"
